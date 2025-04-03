@@ -1,0 +1,15 @@
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.exe
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.deps.json
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.runtimeconfig.json
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.dll
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.pdb
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.AssemblyInfoInputs.cache
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.AssemblyInfo.cs
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.csproj.CoreCompileInputs.cache
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.sourcelink.json
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.dll
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\refint\SortArrayByParity.dll
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.pdb
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.genruntimeconfig.cache
+C:\Users\Ben Pease\Desktop\GitHub\Homework 6\SortArrayByParity\obj\Debug\net8.0\ref\SortArrayByParity.dll
