@@ -12,7 +12,7 @@
             {
                 nums1[k] = nums1[i];
                 i--;
-            }
+            } //bleh
             else
             {
                 nums1[k] = nums2[j];
